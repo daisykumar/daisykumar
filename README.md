@@ -3,7 +3,7 @@ __________
 		    INTERACTION DESIGN STUDENT AT HØYSKOLEN KRISTIANIA
 - 🔭 I’m currently working on ... <strong>Designing</strong> , <strong>coding apps</strong> and <strong>websites</strong>
 
-![Alt Text](https://media.giphy.com/media/b4UEba8vntN2o/source.gif)
+![Alt Text](https://media.giphy.com/media/W2KZgZo97jtC313Hn9/source.gif)
 
 - 🌱 I’m currently learning ...  <strong>Coding</strong>, <strong>Coding</strong>, and <strong>Coding</strong> 
 
