@@ -1,4 +1,4 @@
-### Hi there 🙌 I'm Daisy Kumar 🙋 💻
+### Hi there 🙋 I'm Daisy Kumar  💻
 __________
 		    		          INTERACTION DESIGN STUDENT AT HØYSKOLEN KRISTIANIA
 					  
