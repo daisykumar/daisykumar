@@ -1,6 +1,7 @@
 ### Hi there 🙌 I'm Daisy Kumar 🙋 💻
 __________
-		    INTERACTION DESIGN STUDENT AT HØYSKOLEN KRISTIANIA
+		    		          INTERACTION DESIGN STUDENT AT HØYSKOLEN KRISTIANIA
+					  
 - 🔭 I’m currently working on ... <strong>Designing</strong> , <strong>coding apps</strong> and <strong>websites</strong>
 
 ![Alt Text](https://media.giphy.com/media/8VkgrPdxMh0oo/source.gif)
