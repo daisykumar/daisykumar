@@ -3,6 +3,11 @@ __________
 		    		          INTERACTION DESIGN STUDENT AT HØYSKOLEN KRISTIANIA
 					  
 - 🔭 I’m currently working on ... <strong>Designing</strong> , <strong>coding apps</strong> and <strong>websites</strong>
+<br />
+
+![Screenshot 2020-12-10 at 00 51 57](https://user-images.githubusercontent.com/56020145/101703015-5881e780-3a82-11eb-9409-7b95f36f44e2.png)
+
+<br />
 
 ![Alt Text](https://media.giphy.com/media/8VkgrPdxMh0oo/source.gif)
 __________	
